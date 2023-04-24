@@ -1,19 +1,14 @@
-# Chester-solidity-
-# Smart Contract 
+# solidity
 
+  On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.   
 
-  On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.
-   
-
-## Description 
-
+# description 
 
   Smart contracts are code written into a blockchain that executes the terms of an agreement or contract from outside the chain. It automates the actions that would otherwise be completed by the parties in the agreement, which removes the need for both parties to trust each other.
  
   
-## Getting Started 
-  
-### Executing program 
+# Getting Started
+### Executing program  
 
 
 
@@ -61,10 +56,10 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the Mytoken function. Click on the "SmartContract"  in the left-hand sidebar, and then click on the "Mytoken" function. Finally, click on the "transact" button to execute the function and retrieve the Mytoken value.
  
   
-## Author
- Chester Villardo 
- 
-  
-## License 
+## Author 
+Chester Villardo
+8215358@ntc.edu.ph
+
+## License
   
  This project is licensed under the MIT  License - see the .README.mdfile for details
