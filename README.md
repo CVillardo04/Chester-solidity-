@@ -1,6 +1,6 @@
 # solidity
 
-  On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.   
+  Solidity is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms. It's used to create smart contracts that implement business logic and generate a chain of transaction records in the blockchain system.
 
 # description 
 
